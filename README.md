@@ -19,8 +19,6 @@ El diseño web es básico, pero funcional y enfocado en la usabilidad.
 ## 🔨 Tecnologías utilizadas
 
 - **React**: Biblioteca de JavaScript para la creación de interfaces de usuario.
-- **Node.js**: Entorno de ejecución para JavaScript en el servidor.
-- **Nodemailer**: Paquete para enviar correos electrónicos con el OTP.
 - **React Router**: Para manejar la navegación entre las diferentes vistas (registro, login, verificación OTP).
 
 ## 🛠️ Instalación
